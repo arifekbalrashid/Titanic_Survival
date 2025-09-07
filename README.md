@@ -49,7 +49,3 @@ The model predicts survival with reasonable accuracy based on the input features
 
 ---
 
-## 👤 Author
-Md Arif Ekbal Rashid  
-
----
